@@ -32,8 +32,6 @@ Na raiz do projeto, execute os comandos:
 
 ## Pontos de Análise e Justificativa
 
-Conforme exigido pelo exercício, abaixo estão as análises sobre as decisões de estrutura de dados:
-
 ### 1. Qual variação de lista foi escolhida (simplesmente encadeada, duplamente encadeada ou circular)?
 Foi escolhida a **Lista Duplamente Encadeada**.
 
