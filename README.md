@@ -1,6 +1,6 @@
 # Sistema de Itinerário de Ônibus
 
-Este projeto implementa um sistema interno para auxiliar motoristas de rota de transporte coletivo. O sistema foi desenvolvido em **C++** e utiliza a estrutura de dados de **Listas Duplamente Encadeadas** para gerenciar as paradas de ônibus.
+O sistema foi desenvolvido em **C++** e utiliza a estrutura de dados de **Listas Duplamente Encadeadas** para gerenciar as paradas de ônibus.
 
 ## Estrutura do Projeto
 
